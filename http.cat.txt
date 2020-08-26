@@ -1,0 +1,7 @@
+url: https://http.cat
+
+Example request:
+GET https://http.cat/404
+
+Response is a jpg
+

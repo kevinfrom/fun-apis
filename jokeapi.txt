@@ -1,0 +1,18 @@
+url: https://sv443.net/jokeapi/v2/joke/Any
+
+{
+    "error": false,
+    "category": "Pun",
+    "type": "twopart",
+    "setup": "What do Japanese cannibals eat?",
+    "delivery": "Raw men.",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false
+    },
+    "id": 80,
+    "lang": "en"
+}

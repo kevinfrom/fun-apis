@@ -1,0 +1,11 @@
+url: https://api.countapi.xyz/hit/[example.com]/
+
+Incrementing and getting current value of key:
+GET /[key]
+
+
+Example request:
+curl https://api.countapi.xyz/hit/kevinfrom.dk/test
+
+Example data:
+{"value":4}

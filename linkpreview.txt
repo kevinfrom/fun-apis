@@ -1,0 +1,8 @@
+url: http://api.linkpreview.net/?key=2427b880bd4b8940869b6715924b7cc9
+
+Example request:
+GET http://api.linkpreview.net/?key=2427b880bd4b8940869b6715924b7cc9&q=vestjyskmarketing.dk
+
+Example response:
+{"title":"Vestjysk Marketing | Hjemmesider og digital markedsføring","description":"99% fullservice webbureau med digital marketing, samt udvikling af hjemmesider og webshops. Kontakt os i dag og lad os skabe vækst for din virksomhed.","image":"https://www.vestjyskmarketing.dk/app/webroot/_resized/uploads/logo/logo-sticky-white-0a083dd2fa722739852e4463cf4b5a69.png","url":"https://www.vestjyskmarketing.dk/"}
+

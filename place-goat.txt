@@ -1,0 +1,7 @@
+url: https://placegoat.com
+
+Example request:
+GET https://placegoat.com/[width]/[height]
+
+Response is a jpeg in the assigned format
+Note: To get a squared image only supply first parameter

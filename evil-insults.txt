@@ -1,0 +1,10 @@
+url: https://evilinsult.com/generate_insult.php?lang=en&type=json
+
+Example request:
+GET https://evilinsult.com/generate_insult.php?lang=en&type=json
+
+Example response:
+{"number":"121","language":"en","insult":"You walk behind your boss reaching through his legs and supporting his testicles.","created":"2020-08-26 23:16:18","shown":"25747","createdby":"","active":"1","comment":"http:\/\/www.mirror.co.uk\/news\/weird-news\/worlds-20-most-bizarre-insults-7171396"}
+
+Example text response:
+You must have been born on a highway, because that's where most accidents happen.

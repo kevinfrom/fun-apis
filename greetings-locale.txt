@@ -1,0 +1,8 @@
+url: https://fourtonfish.com/hellosalut/
+
+Example request:
+GET https://fourtonfish.com/hellosalut/?ip=87.56.81.151
+
+Example response:
+{"code":"dk","hello":"Hej"}
+

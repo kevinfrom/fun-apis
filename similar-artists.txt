@@ -1,0 +1,8 @@
+url: https://tastedive.com/api/similar
+
+Example request:
+GET https://tastedive.com/api/similar?q=Neelix
+
+Example response:
+{"Similar": {"Info": [{"Name": "Neelix", "Type": "music"}], "Results": [{"Name": "Haldolium", "Type": "music"}, {"Name": "Symphonix", "Type": "music"}, {"Name": "Suntree", "Type": "music"}, {"Name": "Lyctum", "Type": "music"}, {"Name": "Normalize", "Type": "music"}, {"Name": "Laughing Buddha", "Type": "music"}, {"Name": "FREq", "Type": "music"}, {"Name": "Liquid Sound", "Type": "music"}, {"Name": "Zen Mechanics", "Type": "music"}, {"Name": "Cyklones", "Type": "music"}, {"Name": "Aqualize", "Type": "music"}, {"Name": "Hi Profile", "Type": "music"}, {"Name": "Sheyba", "Type": "music"}, {"Name": "Perfect Stranger", "Type": "music"}, {"Name": "Dickster", "Type": "music"}, {"Name": "X-Noise", "Type": "music"}, {"Name": "Sesto Sento", "Type": "music"}, {"Name": "Audiomatic", "Type": "music"}, {"Name": "Ananda Shake", "Type": "music"}, {"Name": "Loopstep", "Type": "music"}]}}
+

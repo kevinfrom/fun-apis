@@ -1,0 +1,3 @@
+url: programming-quotes-api.herokuapp.com/quotes/random/lang/en
+
+{"_id":"5aa28d721dcf530004c4bf65","sr":"","en":"In handling resources, strive to avoid disaster rather than to attain an optimum.","author":"Butler Lampson","source":"","numberOfVotes":1,"rating":1.7,"addedBy":"5ab04d928c8b4e3cbf733557","id":"5aa28d721dcf530004c4bf65"}

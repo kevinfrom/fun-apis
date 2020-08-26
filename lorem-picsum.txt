@@ -1,0 +1,8 @@
+url: https://picsum.photos
+
+Parameters: [url]/[width]/[height]
+
+Example request:
+GET https://picsum.photos/200/300
+
+Returns a random jpg in requested size

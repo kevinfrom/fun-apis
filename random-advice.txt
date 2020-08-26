@@ -1,0 +1,8 @@
+url: https://api.adviceslip.com/advice
+
+Example request:
+GET https://api.adviceslip.com/advice
+
+Example response:
+{"slip": { "id": 29, "advice": "As you get older, learn never to trust a fart."}}
+

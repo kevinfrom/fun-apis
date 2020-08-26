@@ -1,0 +1,16 @@
+url: https://verifier.meetchopra.com/verify/
+token: 9388e56b2e4db1f93742f4befc93fbe3cc619a0269bf80b792dd7c8e3512d661
+
+Basically just checks if Domain or MX record and server exists
+
+How to use:
+GET https://verifier.meetchopra.com/verify/{{email_to_verify}}?token=9388e56b2e4db1f93742f4befc93fbe3cc619a0269bf80b792dd7c8e3512d661
+
+Example request:
+GET https://verifier.meetchopra.com/verify/kevinfrom@live.dk?token=9388e56b2e4db1f93742f4befc93fbe3cc619a0269bf80b792dd7c8e3512d661
+
+Example output:
+{"status":true,"email":"kevinfrom@live.dk","domain":"live.dk"}
+
+Example output:
+{"status":false,"error":{"code":3,"message":"Domain or MX server does not exists"}}

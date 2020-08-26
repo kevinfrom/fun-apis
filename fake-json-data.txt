@@ -1,0 +1,19 @@
+url: https://app.fakejson.com/q
+
+Define what elements you want in the data object
+
+Example request:
+curl --request POST   --url https://app.fakejson.com/q   --header 'content-type: application/json'   --data '{
+    token: TshSYIawWhIaJj9cTJwpMw,
+    data: {
+      nameFirst: nameFirst,
+      nameLast: nameLast,
+      nameMiddle: nameMiddle,
+      name: name,
+      namePrefix: namePrefix,
+      nameSuffix: nameSuffix
+      }
+    }'
+
+Example response:
+{"name":"Priscilla Parisian","nameFirst":"Annette","nameLast":"Koelpin","nameMiddle":"Angelena","namePrefix":"Mrs.","nameSuffix":"I"}

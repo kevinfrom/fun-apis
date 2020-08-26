@@ -1,0 +1,13 @@
+url: https://chart.googleapis.com/chart
+
+parameters:
+	cht=qr
+	chs=<width>x<height>
+	chl=<data> (Can be digits, alphanumeric characters - must be UTF-8 encoded)
+	chld=<error_correction-level>|<margin> (example: H)
+
+example url:
+https://chart.googleapis.com/chart?cht=qr&chs=200x200&chl=92817383921&chld=H
+
+download image with wget:
+wget "https://chart.googleapis.com/chart?cht=qr&chs=200x200&chl=92817383921&chld=H" -O "qr-code.png"

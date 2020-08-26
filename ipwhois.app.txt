@@ -1,0 +1,3 @@
+url: https://ipwhois.app/json/
+
+{"ip":"87.56.81.151","success":true,"type":"IPv4","continent":"Europe","continent_code":"EU","country":"Denmark","country_code":"DK","country_flag":"https:\/\/cdn.ipwhois.io\/flags\/dk.svg","country_capital":"Copenhagen","country_phone":"+45","country_neighbours":"DE","region":"Central Denmark Region","city":"Ringk\u00f8bing","latitude":"56.26392","longitude":"9.501785","asn":"AS3292","org":"TDC A\/S","isp":"TDC A\/S","timezone":"Europe\/Copenhagen","timezone_name":"Central European Standard Time","timezone_dstOffset":"0","timezone_gmtOffset":"3600","timezone_gmt":"GMT +1:00","currency":"Danish Krone","currency_code":"DKK","currency_symbol":"kr","currency_rates":"6.314427","currency_plural":"Danish kroner","completed_requests":10}

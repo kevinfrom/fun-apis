@@ -1,0 +1,13 @@
+url shortener
+
+POST request:
+curl -d "url=https://server.kevinfrom.dk" https://rel.ink/api/links
+
+the shortened url is then:
+https://rel.ink/[hashid]
+
+example return data:
+{"hashid":"gDGwev","url":"https://vestjyskmarketing.dk","created_at":"2020-08-26T18:26:40.474779Z"}
+
+example link:
+https://rel.ink/gDGwev
